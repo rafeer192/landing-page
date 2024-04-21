@@ -109,3 +109,19 @@ body {
   border-radius: 12px;
 }
 
+.quote-wrapper {
+  background-color: #e5e7eb;
+  padding: 75px 250px;
+  color: #1f2937;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 300;
+}
+
+.quote-credit {
+  font-size: 24px; 
+  font-weight: 800;
+  text-align: right;
+  font-style: normal;
+}
+

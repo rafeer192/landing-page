@@ -125,3 +125,33 @@ body {
   font-style: normal;
 }
 
+.action-wrapper {
+  background-color: #f9faf8;
+  padding: 80px 120px;
+  color: #f9faf8;
+  justify-content: space-between;
+}
+.action-box {
+  background-color: #3882F6;
+  padding: 30px 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 8px;
+}
+.action-text .header {
+  font-size: 24px; 
+  font-weight: 600;
+}
+.action-text .subtext {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+.action-box button {
+  background-color: #3882F6;
+  border: 2px solid #f9faf8; 
+  color: #f9faf8;
+  padding: 6px 24px;
+  font-size: 20px;
+  border-radius: 8px;
+}
